@@ -1,7 +1,8 @@
 # perfilNetflix
 
 Foi feito um clone da página principal de uma série na NetFlix. 
-Nesse projeto fizemos uso, básicamente, do HTML e o CSS. Também 
+Nesse projeto fizemos uso, básicamente, do HTML e o CSS. Nele fizemos
+uso do flexbox, para posicionar os elementos na tela, também 
 utilizamos recursos externos para incrementar o projeto como ícones,
 e o jQuery para facilitar o desenvolvimento do catálogo de filmes. 
 
